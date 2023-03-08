@@ -1,0 +1,7 @@
+line1 = input()
+line2 = input()
+
+mylist = line1 + line2
+sorted_list = sorted(mylist)
+
+print(''.join(sorted_list))
