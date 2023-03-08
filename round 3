@@ -2,7 +2,7 @@ word = str(input())
 output=""
 
     
-while len(output)<30:
+while len(output)<=30:
     output+=word
 print(output)
 
