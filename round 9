@@ -1,0 +1,17 @@
+dance = input()
+
+if dance == '+' :
+    print('+&><+&><')
+    
+elif dance == '&':
+    print('&><+&><+')
+    
+elif dance == '>':
+    print('><+&><+&')
+    
+elif dance == '<':
+    print('<+&><+&>')
+    
+
+    
+    
